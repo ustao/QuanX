@@ -1,7 +1,7 @@
 # > PayPal
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypal.me
-DOMAIN-SUFFIX,paypal-mktg.com
-DOMAIN-SUFFIX,paypalobjects.com
+DOMAIN-SUFFIX,paypal.com,US
+DOMAIN-SUFFIX,paypal.me,US
+DOMAIN-SUFFIX,paypal-mktg.com,US
+DOMAIN-SUFFIX,paypalobjects.com,US
 USER-AGENT,PayPal*,PayPal
 # HOST-KEYWORD,paypal,PayPal
